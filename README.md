@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Artificial Intelligence engineering
 - 💬 Ask me about anything tech or any cool projects you see on my github
 - 📫 How to reach me: gashndolo@gmail.com
 - ⚡ Fun fact: I won Time Person of the Year 2006
